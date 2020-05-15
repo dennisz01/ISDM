@@ -7,10 +7,11 @@ The aim of this project is to deliver an end-to-end design for a Automated Call 
 
 
 # Stakeholders
+There are several stakeholders in this project. These include the customer that is to use the call center when dialing in, the RM that is to be matched alongside the system to assist users, and the travel company that is to operate this system.
 
-
-## Empathy Map
+# Empathy Map
 ![Empathy Map](./Empathy_Map_Final.png)
+Note that there were assumptions made about the behaviour of the customer in the above empathy map
 ## POV Statements
 `[User . . . (descriptive)] needs [Need . . . (verb)] because [Insight . . . (compelling)]`
 
