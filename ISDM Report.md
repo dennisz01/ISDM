@@ -1,13 +1,13 @@
 # ISDM Report
 ## Empathy Map
-
-I just wanna see the truth
 ![Test](./Empathy.png)
-#Empathy.png
+## POV Statements
+`[User . . . (descriptive)] needs [Need . . . (verb)] because [Insight . . . (compelling)]`
 
-Test Test## 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzQ5MzExMSwtMTIyMzg5MTYxMywtMT
-k5OTcxMTkzMywtMjUyNDkzOTczLC01Njc4OTkxMzgsMTM1NTc2
-OTc1Nyw3NzY2ODEzNTRdfQ==
--->
+Travel company who wants this new information system needs it to be reliable because downtime is costly in terms of money and customers
+
+Customer who has a difficult problem needs a suitable and skilled RM because their problem may be complex
+
+Customer who has a simple problem needs any available RM because their problem is very simple and easy to solve
+
+RM who is busy and is in a call with another customer needs not to be disturbed by another call because they’re unavailable
