@@ -1,6 +1,6 @@
 # ISDM Report
 ## Empathy Map
-![Empathy Map](./Empathy Map.png)
+![Empathy Map](./Empathy_Map.png)
 ## POV Statements
 `[User . . . (descriptive)] needs [Need . . . (verb)] because [Insight . . . (compelling)]`
 
