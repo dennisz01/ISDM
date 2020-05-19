@@ -32,6 +32,10 @@ Customer who has a simple problem needs any available RM because their problem i
 
 RM who is busy and is in a call with another customer needs not to be disturbed by another call because they’re unavailable
 
+RM who is waiting for inbound calls needs a list of outbound customers to call because they need to make sales during work hours
+
+RM who is in call with a customer needs documents regarding the company's products and offers because they need to provide the customer with a wide range or accurate information.
+
 ## Assumptions
 Several assumptions have been made in this project:
 * There are improvements *needed* to be made to the call management center 
