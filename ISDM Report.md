@@ -26,6 +26,12 @@ Note that there were assumptions made about the behaviour of the customer in the
 
 Travel company who wants this new information system needs it to be reliable because downtime is costly in terms of money and customers
 
+Travel company who requires this new information system needs it to improve the operational performance of their CMC because they want to increase their revenue for the 2019-20 fiscal year.
+
+Travel company who will utilise this new information system needs it to integrate the Profiler Tool results because RMs need to be matched to customers in order to serve them efficiently and effectively.
+
+Travel company who makes multiple travel packages needs the new information system to handle a high volume of these offers because RMs should be able to easily present them to customers.
+
 Customer who has a difficult problem needs a suitable and skilled RM because their problem may be complex
 
 Customer who has a simple problem needs any available RM because their problem is very simple and easy to solve
