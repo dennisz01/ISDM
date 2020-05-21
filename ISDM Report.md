@@ -20,7 +20,7 @@ Note that there were assumptions made about the behaviour of the customer in the
 ### Relationship Manager
 ![Empathy Map (relationship manager)](./EmpathyMap_RelationshipManager.png)
 ### Travel Company
-
+![Empathy Map (Travel Company)](./Empathy-Map-TravelCompany.png)
 ## POV Statements
 `[User . . . (descriptive)] needs [Need . . . (verb)] because [Insight . . . (compelling)]`
 
