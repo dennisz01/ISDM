@@ -1,3 +1,6 @@
+# Important Links
+Lucid Chart: https://app.lucidchart.com/invitations/accept/d5ad01ec-910a-4e48-a299-46795ca0b8a1
+
 # Executive Summary
 <-- Execute summary goes here --->
 
@@ -55,6 +58,8 @@ Several assumptions have been made in this project:
 * All stakeholders wholeheartedly agree to the project objectives and solution
 * There are existing or new relationship managers
 * The social and economic environment of stakeholders (e.g. customer's economic background)
+* Information of packages and delivery of new packages are handled by the system and is in scopes
+* Relationship managers are to handle the updating and addition of packages onto the system
 
 # Ideation
 >The goal is of ideation is to brainstorm possible questions and solutions. It represents a process of 'going wide' in terms of concepts and outcomes.
@@ -74,3 +79,13 @@ Several assumptions have been made in this project:
 6. How might we help to reduce inbound call costs
 
 7. How might we help RMs better understand their customers
+
+# Prototyping and mModels
+## Use Case Diagram
+![Use Case Diagram](./CMC_UseCaseDiagram.png)
+
+## Activity Diagram
+
+## Class Diagram
+
+## Collaborative Diagram
