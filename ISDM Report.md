@@ -36,7 +36,9 @@ Note that there were assumptions made about the behaviour of the customer in the
 ![Empathy Map (relationship manager)](./EmpathyMap_RelationshipManager.png)
 ### Travel Company
 ![Empathy Map (Travel Company)](./Empathy-Map-TravelCompany.png)
+
 ## POV Statements
+> Point of View (POV) statements aim to record the various perspective's of the identified stakeholders. They are sythentised based on the information discovered in the 'Empathise' stage of the design thinking process.
 
 Travel Company:
  * Travel company who needs this new system to be reliable as downtime is costly in terms of money and customers.
@@ -75,6 +77,7 @@ Several assumptions have been made in this project:
 >The goal is of ideation is to brainstorm possible questions and solutions. It represents a process of 'going wide' in terms of concepts and outcomes.
 
 ## How Might We Statements
+> 'How Might We' statements aim to capture the goals of the design team as alinged to the POV of the various stakeholders.
 
 1. How might we build a reliable system that is able to handle a large amount of calls
 
