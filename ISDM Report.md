@@ -57,8 +57,7 @@ Several assumptions have been made in this project:
 * The social and economic environment of stakeholders (e.g. customer's economic background)
 
 # Ideation
-
-To solve the core problems defined in 
+>The goal is of ideation is to brainstorm possible questions and solutions. It represents a process of 'going wide' in terms of concepts and outcomes.
 
 ## How Might We Statements
 
