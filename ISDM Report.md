@@ -56,4 +56,16 @@ To solve the core problems defined in
 
 ## How Might We Statements
 
+1. How might we build a reliable system that is able to handle a large amount of calls
 
+2. How might we reduce the wait time of customers with the most potential to purchase
+
+3. How might we profile an RM so that we can recrod their area of expertise
+
+4. How might we measure the performance of an RM
+
+5. How might we handle large volumes of inbound customers
+
+6. How might we help to reduce inbound call costs
+
+7. How might we help RMs better understand their customers
