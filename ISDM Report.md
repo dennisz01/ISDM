@@ -38,29 +38,28 @@ Note that there were assumptions made about the behaviour of the customer in the
 ![Empathy Map (Travel Company)](./Empathy-Map-TravelCompany.png)
 ## POV Statements
 
-Travel company who wants this new information system needs it to be reliable because downtime is costly in terms of money and customers
+Travel Company:
+ * Travel company who needs this new system to be reliable as downtime is costly in terms of money and customers.
+ * Travel company who sees a new intelligent call routing and management system as an instrument to improve the operational performance of their CMC   and increase their revenue for the 2019-20 fiscal year.
+ * Travel company who will utilise this new information system who require a Profiler Tool to be integrated with the call management system to match customers with RMs. 
+ * Travel company who makes multiple travel packages need the new information system to handle and make accessible the high volume of package offers to allow for easier presentation by RMs to customers.
 
-Travel company who requires this new information system needs it to improve the operational performance of their CMC because they want to increase their revenue for the 2019-20 fiscal year.
+Callers (Company Customers):
+ * Customer who has a difficult problem needs a suitable and skilled RM because their problem may be complex
+ * Customer who has a simple problem needs any available RM because their problem is very simple and easy to solve
 
-Travel company who will utilise this new information system needs it to integrate the Profiler Tool results because RMs need to be matched to customers in order to serve them efficiently and effectively.
+Relationship Manager (RM):
+* RM should not be routed new calls when an existing call is taking place
+* RM who is waiting for inbound calls needs a list of outbound customers to call because they need to make sales during work hours
+* RM who is in call with a customer needs information regarding the company's products tailored to both the RM and caller
+* RM who should only be routed customers who they are able to support based on their skills and experience
 
-Travel company who makes multiple travel packages needs the new information system to handle a high volume of these offers because RMs should be able to easily present them to customers.
+System Design Team: 
+ * We have been contracted by a major travel company to improve the operational performance of their CMC. We noticed that the travel company isn't recording a growth in revenue during the 2019-20 fiscal year. We wonder if this means that the performance of the CMC impacts the fiscal year results. It would be game changing to improve the operational performance of the CMC using an information system.
 
-Customer who has a difficult problem needs a suitable and skilled RM because their problem may be complex
+ * We've heard from many RMs that they struggle to manage the various travel packages on offer. We were surprised to notice the number of travel packages produced by the travel company. We wonder if this means that customers are offered unnecessary packages by the RMs. It would be game changing to have RMs updated with new travel packages, that only apply to their customers, as soon as they are created.
 
-Customer who has a simple problem needs any available RM because their problem is very simple and easy to solve
-
-RM who is busy and is in a call with another customer needs not to be disturbed by another call because they’re unavailable
-
-RM who is waiting for inbound calls needs a list of outbound customers to call because they need to make sales during work hours
-
-RM who is in call with a customer needs documents regarding the company's products and offers because they need to provide the customer with a wide range or accurate information.
-
-We have been contracted by a major travel company to improve the operational performance of their CMC. We noticed that the travel company isn't recording a growth in revenue during the 2019-20 fiscal year. We wonder if this means that the performance of the CMC impacts the fiscal year results. It would be game changing to improve the operational performance of the CMC using an information system.
-
-We've heard from many RMs that they struggle to manage the various travel packages on offer. We were surprised to notice the number of travel packages produced by the travel company. We wonder if this means that customers are offered unnecessary packages by the RMs. It would be game changing to have RMs updated with new travel packages, that only apply to their customers, as soon as they are created.
-
-We've met we many customers who that they hang up the call due to difficulties. We were surprised to noticed that the wait times for the call can be quite long. We wonder if this means that many potential buyers are missed in the queue. It would be game-changing to reduce the number of customers lost in the queue.
+ * We've met we many customers who that they hang up the call due to difficulties. We were surprised to noticed that the wait times for the call can be quite long. We wonder if this means that many potential buyers are missed in the queue. It would be game-changing to reduce the number of customers lost in the queue.
 
 ## Assumptions
 Several assumptions have been made in this project:
