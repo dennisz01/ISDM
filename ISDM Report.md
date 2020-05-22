@@ -17,14 +17,17 @@ There are several stakeholders in this project:
 
 Customer
  * They use the call center when dialing in.
+
  * We chose customer as a stakeholder as they are users of the system. As a result of this, they present an interest in the development of the system.
 
 Relationship Manager (RM)
  * RMs are matched to customers, through the system, and present travel packages to them.
+
  * We chose RMs as a stakeholder as they are use the system to interact with customers. They are affected by the development of the system.
 
 Major Travel Company
  * They will operate this system.
+
  * We chose Major Travel Company as a stakeholder as they are funding this project and will operate the system.
 
 # Design Thinking Processes
@@ -42,18 +45,25 @@ Note that there were assumptions made about the behaviour of the customer in the
 
 Travel Company:
  * Travel company who needs this new system to be reliable as downtime is costly in terms of money and customers.
+
  * Travel company who sees a new intelligent call routing and management system as an instrument to improve the operational performance of their CMC   and increase their revenue for the 2019-20 fiscal year.
+
  * Travel company who will utilise this new information system who require a Profiler Tool to be integrated with the call management system to match customers with RMs. 
+
  * Travel company who makes multiple travel packages need the new information system to handle and make accessible the high volume of package offers to allow for easier presentation by RMs to customers.
 
 Callers (Company Customers):
  * Customer who has a difficult problem needs a suitable and skilled RM because their problem may be complex
+
  * Customer who has a simple problem needs any available RM because their problem is very simple and easy to solve
 
 Relationship Manager (RM):
 * RM should not be routed new calls when an existing call is taking place
+
 * RM who is waiting for inbound calls needs a list of outbound customers to call because they need to make sales during work hours
+
 * RM who is in call with a customer needs information regarding the company's products tailored to both the RM and caller
+
 * RM who should only be routed customers who they are able to support based on their skills and experience
 
 System Design Team: 
@@ -66,11 +76,16 @@ System Design Team:
 ## Assumptions
 Several assumptions have been made in this project:
 * There are improvements *needed* to be made to the call management center 
+
 * There is an inherent *need* for the customer to utilise the call center services (i.e. they want to book holidays, make complaints)
+
 * All stakeholders wholeheartedly agree to the project objectives and solution
 * There are existing or new relationship managers
+
 * The social and economic environment of stakeholders (e.g. customer's economic background)
+
 * Information of packages and delivery of new packages are handled by the system and is in scopes
+
 * Relationship managers are to handle the updating and addition of packages onto the system
 
 # Ideation
@@ -93,11 +108,13 @@ Several assumptions have been made in this project:
 
 7. How might we help RMs better understand their customers
 
-# Prototyping and mModels
+# Prototyping and Models
 ## Use Case Diagram
 ![Use Case Diagram](./CMC_UseCaseDiagram.png)
 
 ## Activity Diagram
+### Inbound Call
+![Inbound Call Activity Diagram](./CMC_ActivityDiagram_Inbound.png)
 
 ## Class Diagram
 
