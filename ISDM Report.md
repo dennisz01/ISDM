@@ -42,6 +42,12 @@ RM who is waiting for inbound calls needs a list of outbound customers to call b
 
 RM who is in call with a customer needs documents regarding the company's products and offers because they need to provide the customer with a wide range or accurate information.
 
+We have been contracted by a major travel company to improve the operational performance of their CMC. We noticed that the travel company isn't recording a growth in revenue during the 2019-20 fiscal year. We wonder if this means that the performance of the CMC impacts the fiscal year results. It would be game changing to improve the operational performance of the CMC using an information system.
+
+We've heard from many RMs that they struggle to manage the various travel packages on offer. We were surprised to notice the number of travel packages produced by the travel company. We wonder if this means that customers are offered unnecessary packages by the RMs. It would be game changing to have RMs updated with new travel packages, that only apply to their customers, as soon as they are created.
+
+We've met we many customers who that they hang up the call due to difficulties. We were surprised to noticed that the wait times for the call can be quite long. We wonder if this means that many potential buyers are missed in the queue. It would be game-changing to reduce the number of customers lost in the queue.
+
 ## Assumptions
 Several assumptions have been made in this project:
 * There are improvements *needed* to be made to the call management center 
