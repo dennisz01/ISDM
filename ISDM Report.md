@@ -10,7 +10,19 @@
 The aim of this project is to deliver an end-to-end design for a Automated Call Routing System (ACRS) to the organisations call management center (CMC). This system will maximise efficiency by adjusting customer calls to relationship managers (RMs) with the domain knowledge of the potential / existing customer's profile. This will ensure that customers are matched with the most appropriate and well informed RM). The proposed system aims to improve the operational performance of the CMC by prioritising customer calls, performing customer-RM matching, and improving the outcomes of outbound telemarketing calls. In doing so, the system is projected to lift the organisations revenues in the 2019-20 fiscal year.
 
 # Stakeholders
-There are several stakeholders in this project. These include the customer that is to use the call center when dialing in, the RM that is to be matched alongside the system to assist users, and the travel company that is to operate this system.
+There are several stakeholders in this project: 
+
+Customer
+ * They use the call center when dialing in.
+ * We chose customer as a stakeholder as they are users of the system. As a result of this, they present an interest in the development of the system.
+
+Relationship Manager (RM)
+ * RMs are matched to customers, through the system, and present travel packages to them.
+ * We chose RMs as a stakeholder as they are use the system to interact with customers. They are affected by the development of the system.
+
+Major Travel Company
+ * They will operate this system.
+ * We chose Major Travel Company as a stakeholder as they are funding this project and will operate the system.
 
 # Design Thinking Processes
 ## Empathy Maps
@@ -22,7 +34,6 @@ Note that there were assumptions made about the behaviour of the customer in the
 ### Travel Company
 ![Empathy Map (Travel Company)](./Empathy-Map-TravelCompany.png)
 ## POV Statements
-`[User . . . (descriptive)] needs [Need . . . (verb)] because [Insight . . . (compelling)]`
 
 Travel company who wants this new information system needs it to be reliable because downtime is costly in terms of money and customers
 
