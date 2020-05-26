@@ -116,6 +116,9 @@ Several assumptions have been made in this project:
 ### Inbound Call
 ![Inbound Call Activity Diagram](./CMC_ActivityDiagram_Inbound.png)
 
+### Outbound Call
+![Outbound Call Activity Diagram](./CMC_ActivityDiagram_Outbound.png)
+
 ## Class Diagram
 
 ## Collaborative Diagram
