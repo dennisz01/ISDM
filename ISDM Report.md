@@ -120,5 +120,6 @@ Several assumptions have been made in this project:
 ![Outbound Call Activity Diagram](./CMC_ActivityDiagram_Outbound.png)
 
 ## Class Diagram
+![Cladd Diagram](./Class_Diagram.png)
 
 ## Collaborative Diagram
