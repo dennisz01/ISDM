@@ -80,7 +80,7 @@ Several assumptions have been made in this project:
 
 2. How might we reduce the wait time of customers with the most potential to purchase
 
-3. How might we profile an RM so that we can recrod their area of expertise
+3. How might we profile an RM so that we can record their area of expertise
 
 4. How might we measure the performance of an RM
 
