@@ -127,10 +127,12 @@ Several assumptions have been made in this project:
 # Competitive Advantages and Repercussions
 > Competitive advantage refers to circumstances that provide a particular company a favourable business position. This can come from lower costs, and/or differentiation from competitors.
 
-For the CMC, being able to noticeably improve customer service with their new systematically provides great benefit in regards to the company's revenue as well as reputation, yielding a long-lasting competitive advantage. 
+For the CMC, being able to noticeably improve customer service with their new systematically provides great benefit in regards to the company's revenue as well as reputation, yielding a long-lasting competitive advantage. This innovative solution differentiates their product and services from competitors whilst at the same time lowering time inefficiencies with more successful matching capabilities. Catering to a returning customer revenue stream with the scoring system allows CMC to maintain a reliable business position.
 
 Firstly, the ability to match a customer to a RM according to character profiles (Profiler Tool) allows the company to cater to the individual's preference and desired selection of holiday packages with a well-versed specialist in that field. This means that customers will be provided information that is likely up-to-date and well-informed from appropriately-skilled RMs - therefore making the customer service effective and persuasive in contrast to other competitor services.
 
 Next, the travel company is able to improving revenue stream by streamlining their customer service to customers that have shown interest in the provided holiday packages previously; this is by serving return customers that have higher scores of purchase likelihood. Prioritising customers likely to purchase packages allows the company to provide greater customer service when it is most needed - therefore bolstering sales.
+
+Moreover, improving operations for outbound involving the addition of matching customers and RMs with prepared guidelines and scripts significantly raises the chances of successfully gaining a paying customer. Regardless of whether the customer accepts a holiday package deal from the initial outbound, this process is effective in providing a first-stop platform for customers later interested in travel - consolidating the CMC as a strong competitor to other travel services.
 
 However, in the unlikely event that the project fails, ...
