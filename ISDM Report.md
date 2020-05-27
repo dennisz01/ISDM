@@ -136,3 +136,5 @@ Next, the travel company is able to improving revenue stream by streamlining the
 Moreover, improving operations for outbound involving the addition of matching customers and RMs with prepared guidelines and scripts significantly raises the chances of successfully gaining a paying customer. Regardless of whether the customer accepts a holiday package deal from the initial outbound, this process is effective in providing a first-stop platform for customers later interested in travel - consolidating the CMC as a strong competitor to other travel services.
 
 However, in the unlikely event that the project fails, ...
+
+# Agile SCRUM Delveru
