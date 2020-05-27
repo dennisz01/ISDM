@@ -17,14 +17,17 @@ There are several stakeholders in this project:
 
 Customer
  * They use the call center when dialing in.
+
  * We chose customer as a stakeholder as they are users of the system. As a result of this, they present an interest in the development of the system.
 
 Relationship Manager (RM)
  * RMs are matched to customers, through the system, and present travel packages to them.
+
  * We chose RMs as a stakeholder as they are use the system to interact with customers. They are affected by the development of the system.
 
 Major Travel Company
  * They will operate this system.
+
  * We chose Major Travel Company as a stakeholder as they are funding this project and will operate the system.
 
 # Design Thinking Processes
@@ -36,22 +39,31 @@ Note that there were assumptions made about the behaviour of the customer in the
 ![Empathy Map (relationship manager)](./EmpathyMap_RelationshipManager.png)
 ### Travel Company
 ![Empathy Map (Travel Company)](./Empathy-Map-TravelCompany.png)
+
 ## POV Statements
+> Point of View (POV) statements aim to record the various perspective's of the identified stakeholders. They are sythentised based on the information discovered in the 'Empathise' stage of the design thinking process.
 
 Travel Company:
  * Travel company who needs this new system to be reliable as downtime is costly in terms of money and customers.
+
  * Travel company who sees a new intelligent call routing and management system as an instrument to improve the operational performance of their CMC   and increase their revenue for the 2019-20 fiscal year.
+
  * Travel company who will utilise this new information system who require a Profiler Tool to be integrated with the call management system to match customers with RMs. 
+
  * Travel company who makes multiple travel packages need the new information system to handle and make accessible the high volume of package offers to allow for easier presentation by RMs to customers.
 
 Callers (Company Customers):
  * Customer who has a difficult problem needs a suitable and skilled RM because their problem may be complex
+
  * Customer who has a simple problem needs any available RM because their problem is very simple and easy to solve
 
 Relationship Manager (RM):
 * RM should not be routed new calls when an existing call is taking place
+
 * RM who is waiting for inbound calls needs a list of outbound customers to call because they need to make sales during work hours
+
 * RM who is in call with a customer needs information regarding the company's products tailored to both the RM and caller
+
 * RM who should only be routed customers who they are able to support based on their skills and experience
 
 System Design Team: 
@@ -64,17 +76,23 @@ System Design Team:
 ## Assumptions
 Several assumptions have been made in this project:
 * There are improvements *needed* to be made to the call management center 
+
 * There is an inherent *need* for the customer to utilise the call center services (i.e. they want to book holidays, make complaints)
+
 * All stakeholders wholeheartedly agree to the project objectives and solution
 * There are existing or new relationship managers
+
 * The social and economic environment of stakeholders (e.g. customer's economic background)
+
 * Information of packages and delivery of new packages are handled by the system and is in scopes
+
 * Relationship managers are to handle the updating and addition of packages onto the system
 
 # Ideation
 >The goal is of ideation is to brainstorm possible questions and solutions. It represents a process of 'going wide' in terms of concepts and outcomes.
 
 ## How Might We Statements
+> 'How Might We' statements aim to capture the goals of the design team as alinged to the POV of the various stakeholders.
 
 1. How might we build a reliable system that is able to handle a large amount of calls
 
@@ -90,12 +108,33 @@ Several assumptions have been made in this project:
 
 7. How might we help RMs better understand their customers
 
-# Prototyping and mModels
+# Prototyping and Models
 ## Use Case Diagram
 ![Use Case Diagram](./CMC_UseCaseDiagram.png)
 
 ## Activity Diagram
+### Inbound Call
+![Inbound Call Activity Diagram](./CMC_ActivityDiagram_Inbound.png)
+
+### Outbound Call
+![Outbound Call Activity Diagram](./CMC_ActivityDiagram_Outbound.png)
 
 ## Class Diagram
+![Cladd Diagram](./Class_Diagram.png)
 
 ## Collaborative Diagram
+
+# Competitive Advantages and Repercussions
+> Competitive advantage refers to circumstances that provide a particular company a favourable business position. This can come from lower costs, and/or differentiation from competitors.
+
+For the CMC, being able to noticeably improve customer service with their new systematically provides great benefit in regards to the company's revenue as well as reputation, yielding a long-lasting competitive advantage. This innovative solution differentiates their product and services from competitors whilst at the same time lowering time inefficiencies with more successful matching capabilities. Catering to a returning customer revenue stream with the scoring system allows CMC to maintain a reliable business position.
+
+Firstly, the ability to match a customer to a RM according to character profiles (Profiler Tool) allows the company to cater to the individual's preference and desired selection of holiday packages with a well-versed specialist in that field. This means that customers will be provided information that is likely up-to-date and well-informed from appropriately-skilled RMs - therefore making the customer service effective and persuasive in contrast to other competitor services.
+
+Next, the travel company is able to improving revenue stream by streamlining their customer service to customers that have shown interest in the provided holiday packages previously; this is by serving return customers that have higher scores of purchase likelihood. Prioritising customers likely to purchase packages allows the company to provide greater customer service when it is most needed - therefore bolstering sales.
+
+Moreover, improving operations for outbound involving the addition of matching customers and RMs with prepared guidelines and scripts significantly raises the chances of successfully gaining a paying customer. Regardless of whether the customer accepts a holiday package deal from the initial outbound, this process is effective in providing a first-stop platform for customers later interested in travel - consolidating the CMC as a strong competitor to other travel services.
+
+However, in the unlikely event that the project fails, ...
+
+# Agile SCRUM Delveru
