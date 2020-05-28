@@ -33,12 +33,12 @@ Major Travel Company
 # Design Thinking Processes
 ## Empathy Maps
 ### Customer
-![Empathy Map (customer)](./Empathy_Map_Final.png)
+![Empathy Map (customer)](diagrams/Empathy_Map_Final.png)
 Note that there were assumptions made about the behaviour of the customer in the above empathy map
 ### Relationship Manager
-![Empathy Map (relationship manager)](./EmpathyMap_RelationshipManager.png)
+![Empathy Map (relationship manager)](diagrams/EmpathyMap_RelationshipManager.png)
 ### Travel Company
-![Empathy Map (Travel Company)](./Empathy-Map-TravelCompany.png)
+![Empathy Map (Travel Company)](diagrams/Empathy-Map-TravelCompany.png)
 
 ## POV Statements
 > Point of View (POV) statements aim to record the various perspective's of the identified stakeholders. They are sythentised based on the information discovered in the 'Empathise' stage of the design thinking process.
@@ -110,17 +110,17 @@ Several assumptions have been made in this project:
 
 # Prototyping and Models
 ## Use Case Diagram
-![Use Case Diagram](./CMC_UseCaseDiagram.png)
+![Use Case Diagram](diagrams/CMC_UseCaseDiagram.png)
 
 ## Activity Diagram
 ### Inbound Call
-![Inbound Call Activity Diagram](./CMC_ActivityDiagram_Inbound.png)
+![Inbound Call Activity Diagram](diagrams/CMC_ActivityDiagram_Inbound.png)
 
 ### Outbound Call
-![Outbound Call Activity Diagram](./CMC_ActivityDiagram_Outbound.png)
+![Outbound Call Activity Diagram](diagrams/CMC_ActivityDiagram_Outbound.png)
 
 ## Class Diagram
-![Cladd Diagram](./Class_Diagram.png)
+![Cladd Diagram](diagrams/Class_Diagram.png)
 
 ## Collaborative Diagram
 
