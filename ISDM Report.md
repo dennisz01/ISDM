@@ -98,7 +98,7 @@ Several assumptions have been made in this project:
 
 2. How might we reduce the wait time of customers with the most potential to purchase
 
-3. How might we profile an RM so that we can record their area of expertise
+3. How might we profile an RM so that we can recrod their area of expertise
 
 4. How might we measure the performance of an RM
 
@@ -135,6 +135,19 @@ Next, the travel company is able to improving revenue stream by streamlining the
 
 Moreover, improving operations for outbound involving the addition of matching customers and RMs with prepared guidelines and scripts significantly raises the chances of successfully gaining a paying customer. Regardless of whether the customer accepts a holiday package deal from the initial outbound, this process is effective in providing a first-stop platform for customers later interested in travel - consolidating the CMC as a strong competitor to other travel services.
 
-However, in the unlikely event that the project fails, ...
+However, as with all projects, there is always a slim possibility of project failure. It is important to define what a project 'failure' is:
+> A project is considered a failure if it has not delivered on its requirements/expectations. This occurs if the deliverables are late or do not deliver the intended business value
 
-# Agile SCRUM Delveru
+As such, in this case study, failure can be in the form of any of the resultant effects below:
+
+* The call distribution system has not been delivered and/or is not performing as intended or to a standard that is operational.
+
+* Customers don't like the customer service from the customers the matching system has provided (poor profiling)
+
+* Lower customer inquiries (inbound calls) and subsequently lower average sales
+
+* The customers spend too much time waiting and average hang-ups increase
+
+* RMs find that the script does not resonate with the customer (poor profiling)
+
+If failure occurs, the travel company is in danger of losing market share and any competitive advantage a successful project might've given. This project could be quite costly both in terms of time and money. There is no significant impact on the RM stakeholders nor the customer - however there is a chance that this failed project could lead to a loss in public image and trust of the travel company - resulting in a long-term damaging effect on sales.
