@@ -19,7 +19,7 @@ By analysing the empathy maps created in the previous stage, we can properly def
 After the defining stage, we created How Might We (HWM) statements to isolate the functions that we hope our new system will be able to achieve. To do this, we reference the POV of the stakeholders.
 
 ### Prototype
-
+The prototype phase allows us to address each of the problems defined in the previous steps. We created Use Case Diagrams, Activity Diagrams, Class Diagrams and Collaborative Diagrams to define the core functionality of our proposed system prototype. These concepts can be further 
 
 <-- Discuss use of design thinking + agile scrum -->
 
