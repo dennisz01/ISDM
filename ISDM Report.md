@@ -19,9 +19,29 @@ By analysing the empathy maps created in the previous stage, we can properly def
 After the defining stage, we created How Might We (HWM) statements to isolate the functions that we hope our new system will be able to achieve. To do this, we reference the POV of the stakeholders.
 
 ### Prototype
-The prototype phase allows us to address each of the problems defined in the previous steps. We created Use Case Diagrams, Activity Diagrams, Class Diagrams and Collaborative Diagrams to define the core functionality of our proposed system prototype. These concepts can be further 
+The prototype phase allows us to address each of the problems defined in the previous steps. We created Use Case Diagrams, Activity Diagrams, Class Diagrams and Collaborative Diagrams to define the core functionality of our proposed system prototype.
 
-<-- Discuss use of design thinking + agile scrum -->
+### Test (Maybe??)
+
+## Agile
+
+The agile development methodology allows us to deliver the proposed solution is smaller increments quickly. It allows to rapidly adapt to evolving and emerging business needs and concerns.
+
+### Roles
+In the agile development methodology, there are 3 roles: Product Owner, Scrum Master and the Development Team. With our current project, all of us are a part of the development team, while Dennis, the admin of GitHub repository, is the Scrum Master. The product owner is the executive of the major travel company.
+
+### Events
+#### Sprint Planning
+#### Sprint Review
+#### Sprint Retrospective
+#### Daily Scrum
+
+### Artefacts
+#### Product Backlog
+#### Sprint Backlog
+#### Sprint Burndown Chart
+
+### Boards
 
 # Definition
 
