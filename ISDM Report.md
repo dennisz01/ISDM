@@ -5,6 +5,20 @@ Lucid Chart: https://app.lucidchart.com/invitations/accept/d5ad01ec-910a-4e48-a2
 <-- Execute summary goes here --->
 
 # Project Approach
+
+## Design Thinking
+Using the design thinking process allows us, the designers/developers of the system, to precisely define the scope, and solve, a problem. This is done through the various stages of design thinking.
+
+### Empathy
+For the empathy stage, we decided to use empathy maps to truly understand the perspectives of the stakeholders. It is important to note that these empathy maps describe their experiences before the implementation of the new system.  
+
+### Define
+### Ideate
+### Prototype
+### Test
+
+
+
 <-- Discuss use of design thinking + agile scrum -->
 
 # Definition
