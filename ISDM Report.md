@@ -16,9 +16,9 @@ For the empathy stage, we decided to use empathy maps to truly understand the pe
 By analysing the empathy maps created in the previous stage, we can properly define the scope of the problem that the current environment presents. We achieved this through the use of Point of View (POV) statments. While we created POV statements for all the stakeholders, we also created them for ourselves. This was in order to uncover more potential problems with the current system from our perspectives. Overall, the define stage allowed us to understand our stakeholders and their needs.
 
 ### Ideate
-### Prototype
-### Test
+After the defining stage, we created How Might We (HWM) statements to isolate the functions that we hope our new system will be able to achieve. To do this, we reference the POV of the stakeholders.
 
+### Prototype
 
 
 <-- Discuss use of design thinking + agile scrum -->
