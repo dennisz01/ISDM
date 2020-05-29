@@ -22,7 +22,7 @@ After the defining stage, we created How Might We (HWM) statements to isolate th
 The prototype phase allows us to address each of the problems defined in the previous steps. We created Use Case Diagrams, Activity Diagrams, Class Diagrams and Collaborative Diagrams to define the core functionality of our proposed system prototype.
 
 ### Test
-
+It is important, that once the system is developed, that we assess it against the requirements set by the stakeholders. This stage of the design thinking methodology allows us to iterate over many designs to ensure that the best solution is presented to the clients.
 
 ## Agile
 
