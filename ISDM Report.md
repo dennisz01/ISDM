@@ -163,4 +163,4 @@ As such, in this case study, failure can be in the form of any of the resultant 
 If failure occurs, the travel company is in danger of losing market share and any competitive advantage a successful project might've given. This project could be quite costly both in terms of time and money. There is no significant impact on the RM stakeholders nor the customer - however there is a chance that this failed project could lead to a loss in public image and trust of the travel company - resulting in a long-term damaging effect on sales.
 
 # Project Board
-![Project Board](Project_Board.png)
+![Project Board](diagrams/Project_Board.png)
