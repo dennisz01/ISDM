@@ -6,7 +6,7 @@
 * Kevin Leung (13584228)
 
 # Executive Summary
-This report provides a business analysis and design-thinking process of implmenting a new Automated Call Routing System (ACRS) into an existing call center management center (CMC). Methods of analysis involve understanding stakeholders, constructing models to illustrate underlying processes, and investigating the potential advantages and/or consequences of project success or failure. The design thinking process is outlined below and documented with the online GitHub service. This report finds that a successful implementation of this project leads to substantial positive benefits to stakeholders such as the customer, the relationship manager and the travel company. This may include but is not limited to: 
+This report provides a business analysis and design-thinking process of implementing a new Automated Call Routing System (ACRS) into an existing call center management center (CMC). Methods of analysis involve understanding stakeholders, constructing models to illustrate underlying processes, and investigating the potential advantages and/or consequences of project success or failure. The design thinking process is outlined below and documented with the online GitHub service. This report finds that a successful implementation of this project can lead to substantial positive benefits to stakeholders such as the customer, the relationship manager and the travel company. This may include but is not limited to: 
 * Increased company revenue and customer-base
 * Improved public image from improved customer service
 * Competitive advantage (differentiation and cost savings)
