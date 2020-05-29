@@ -1,8 +1,15 @@
-# Important Links
-Lucid Chart: https://app.lucidchart.com/invitations/accept/d5ad01ec-910a-4e48-a299-46795ca0b8a1
+# Information System Development Methodologies Assignment (31257)
+### Authors
+* Dennis Zub (13571649)
+* Hasith Jayasakera (13562133)
+* James Lee (13583950)
+* Kevin Leung (13584228)
 
 # Executive Summary
-<-- Execute summary goes here --->
+This report provides a business analysis and design-thinking process of implmenting a new Automated Call Routing System (ACRS) into an existing call center management center (CMC). Methods of analysis involve understanding stakeholders, constructing models to illustrate underlying processes, and investigating the potential advantages and/or consequences of project success or failure. The design thinking process is outlined below and documented with the online GitHub service. This report finds that a successful implementation of this project leads to substantial positive benefits to stakeholders such as the customer, the relationship manager and the travel company. This may include but is not limited to: 
+* Increased company revenue and customer-base
+* Improved public image from improved customer service
+* Competitive advantage (differentiation and cost savings)
 
 # Project Approach
 <-- Discuss use of design thinking + agile scrum -->
@@ -10,7 +17,7 @@ Lucid Chart: https://app.lucidchart.com/invitations/accept/d5ad01ec-910a-4e48-a2
 # Definition
 
 ## Project Objectives & Problem
-The aim of this project is to deliver an end-to-end design for a Automated Call Routing System (ACRS) to the organisations call management center (CMC). This system will maximise efficiency by adjusting customer calls to relationship managers (RMs) with the domain knowledge of the potential / existing customer's profile. This will ensure that customers are matched with the most appropriate and well informed RM). The proposed system aims to improve the operational performance of the CMC by prioritising customer calls, performing customer-RM matching, and improving the outcomes of outbound telemarketing calls. In doing so, the system is projected to lift the organisations revenues in the 2019-20 fiscal year.
+The aim of this project is to deliver an end-to-end design for a Automated Call Routing System to the organisations call management center. This system will maximise efficiency by adjusting customer calls to relationship managers (RMs) with the domain knowledge of the potential / existing customer's profile. This will ensure that customers are matched with the most appropriate and well informed RM). The proposed system aims to improve the operational performance of the CMC by prioritising customer calls, performing customer-RM matching, and improving the outcomes of outbound telemarketing calls. In doing so, the system is projected to lift the organisations revenues in the 2019-20 fiscal year.
 
 # Stakeholders
 There are several stakeholders in this project: 
