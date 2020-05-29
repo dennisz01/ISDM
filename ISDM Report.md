@@ -175,7 +175,7 @@ Several assumptions have been made in this project:
 ## Class Diagram
 ![Class Diagram](diagrams/Class_Diagram.png)
 
-At the core functionality of the system is the 
+The core functionality of the proposed system is driven by the 'Matcher and Distributor' class. It is envisioned that it is to be used as the central class / object that powers the operation of a system. This is achieved by enumatring the propeties of the object with lists of relationship managers, customers, and packages. In bound calls into the CMC are then instantiated into objects, analysed by the matcher, and distributed to the appropriate RM based on the parameters (i.e. RM skill, customer rating etc). 
 
 ## Collaborative Diagram
 ![Collaborative Diagram](diagrams/Collaborative_Diagram_RMOutbound.png)
