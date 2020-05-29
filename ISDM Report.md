@@ -88,6 +88,8 @@ Several assumptions have been made in this project:
 
 * Relationship managers are to handle the updating and addition of packages onto the system
 
+* The profiles created by the Profiler Tool seamlessly integrates with the system
+
 # Ideation
 >The goal is of ideation is to brainstorm possible questions and solutions. It represents a process of 'going wide' in terms of concepts and outcomes.
 
