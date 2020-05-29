@@ -21,27 +21,33 @@ After the defining stage, we created How Might We (HWM) statements to isolate th
 ### Prototype
 The prototype phase allows us to address each of the problems defined in the previous steps. We created Use Case Diagrams, Activity Diagrams, Class Diagrams and Collaborative Diagrams to define the core functionality of our proposed system prototype.
 
-### Test (Maybe??)
+### Test
+
 
 ## Agile
 
 The agile development methodology allows us to deliver the proposed solution is smaller increments quickly. It allows to rapidly adapt to evolving and emerging business needs and concerns.
 
 ### Roles
-In the agile development methodology, there are 3 roles: Product Owner, Scrum Master and the Development Team. With our current project, all of us are a part of the development team, while Dennis, the admin of GitHub repository, is the Scrum Master. The product owner is the executive of the major travel company.
+In the agile development methodology, there are 3 roles: Product Owner, Scrum Master and the Development Team. With our current project, all of us are a part of the development team, while Dennis, the admin of GitHub repository, is the Scrum Master. The product owner is the chief executive officer of the major travel company.
 
 ### Events
 #### Sprint Planning
+Sprint planning involves all three roles in the agile development methodology. The aim of sprint planning is to centralise a goal for the sprint and manage/plan how the deliverables will be released. This was initially completed in Week 2 with the creation/prioritisation of the backlog.
+
 #### Sprint Review
+This process involves reviewing the completed deliverables of the sprint. The observations made in this event are essential for the next event: Sprint Retrospective.
+
 #### Sprint Retrospective
+The sprint retrospective allows the Scrum Team to looking back on the overall sprint process and isolate key areas for improvement. These areas can be dealt with in future sprints.
+
 #### Daily Scrum
+As the Agile methodology involves ever-changing requirements and needs, plans for the sprint also change. That is why Daily Scrum is required for all members of the development team to attend. This allows each member to understand the collective work being done, so that the deliverables are still on track for release during the same sprint.
 
 ### Artefacts
 #### Product Backlog
 #### Sprint Backlog
 #### Sprint Burndown Chart
-
-### Boards
 
 # Definition
 
