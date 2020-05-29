@@ -122,9 +122,10 @@ Several assumptions have been made in this project:
 ![Outbound Call Activity Diagram](diagrams/CMC_ActivityDiagram_Outbound.png)
 
 ## Class Diagram
-![Cladd Diagram](diagrams/Class_Diagram.png)
+![Class Diagram](diagrams/Class_Diagram.png)
 
 ## Collaborative Diagram
+![Collaborative Diagram](diagrams/Collaborative_Diagram_RMOutbound.png)
 
 # Competitive Advantages and Repercussions
 > Competitive advantage refers to circumstances that provide a particular company a favourable business position. This can come from lower costs, and/or differentiation from competitors.
