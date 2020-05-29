@@ -12,7 +12,51 @@ This report provides a business analysis and design-thinking process of implemen
 * Competitive advantage (differentiation and cost savings)
 
 # Project Approach
-<-- Discuss use of design thinking + agile scrum -->
+
+## Design Thinking
+Using the design thinking process allows us, the designers/developers of the system, to precisely define the scope, and solve, a problem. This is done through the various stages of design thinking.
+
+### Empathy
+For the empathy stage, we decided to use empathy maps to truly understand the perspectives of the stakeholders. It is important to note that these empathy maps describe their experiences before the implementation of the new system.  
+
+### Define
+By analysing the empathy maps created in the previous stage, we can properly define the scope of the problem that the current environment presents. We achieved this through the use of Point of View (POV) statments. While we created POV statements for all the stakeholders, we also created them for ourselves. This was in order to uncover more potential problems with the current system from our perspectives. Overall, the define stage allowed us to understand our stakeholders and their needs.
+
+### Ideate
+After the defining stage, we created How Might We (HWM) statements to isolate the functions that we hope our new system will be able to achieve. To do this, we reference the POV of the stakeholders.
+
+### Prototype
+The prototype phase allows us to address each of the problems defined in the previous steps. We created Use Case Diagrams, Activity Diagrams, Class Diagrams and Collaborative Diagrams to define the core functionality of our proposed system prototype.
+
+### Test
+It is important, that once the system is developed, that we assess it against the requirements set by the stakeholders. This stage of the design thinking methodology allows us to iterate over many designs to ensure that the best solution is presented to the clients.
+
+## Agile
+
+The agile development methodology allows us to deliver the proposed solution is smaller increments quickly. It allows to rapidly adapt to evolving and emerging business needs and concerns.
+
+### Roles
+In the agile development methodology, there are 3 roles: Product Owner, Scrum Master and the Development Team. With our current project, all of us are a part of the development team, while Dennis, the admin of GitHub repository, is the Scrum Master. The product owner is the chief executive officer of the major travel company.
+
+### Events
+#### Sprint Planning
+Sprint planning involves all three roles in the agile development methodology. The aim of sprint planning is to centralise a goal for the sprint and manage/plan how the deliverables will be released. This was initially completed in Week 2 with the creation/prioritisation of the backlog.
+
+#### Sprint Review
+This process involves reviewing the completed deliverables of the sprint. The observations made in this event are essential for the next event: Sprint Retrospective.
+
+#### Sprint Retrospective
+The sprint retrospective allows the Scrum Team to looking back on the overall sprint process and isolate key areas for improvement. These areas can be dealt with in future sprints.
+
+#### Daily Scrum
+As the Agile methodology involves ever-changing requirements and needs, plans for the sprint also change. That is why Daily Scrum is required for all members of the development team to attend. This allows each member to understand the collective work being done, so that the deliverables are still on track for release during the same sprint.
+
+### Artefacts
+#### Product Backlog
+The aim of the product backlog is to order all the requirements that are required in the final product. It comprises of product backlog items, that the Product Owner is responsible for, which link to our GitHub issues that we have created.
+
+#### Sprint Backlog
+Like the product backlog, it contains product backlog items, but not all of them. It only includes items that are set to be completed during the current sprint and a delivery plan of this sprint. As our project only contains one sprint, all our items in the product backlog are within our sprint backlog. These can be visualised through the use of Kanban boards so that the Development Team, which manages, creates and owns the sprint backlog, can track the progress of work.
 
 # Definition
 
