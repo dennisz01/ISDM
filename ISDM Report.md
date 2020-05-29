@@ -1,16 +1,67 @@
-# Important Links
-Lucid Chart: https://app.lucidchart.com/invitations/accept/d5ad01ec-910a-4e48-a299-46795ca0b8a1
+# Information System Development Methodologies Assignment (31257)
+### Authors
+* Dennis Zub (13571649)
+* Hasith Jayasakera (13562133)
+* James Lee (13583950)
+* Kevin Leung (13584228)
 
 # Executive Summary
-<-- Execute summary goes here --->
+This report provides a business analysis and design-thinking process of implementing a new Automated Call Routing System (ACRS) into an existing call center management center (CMC). Methods of analysis involve understanding stakeholders, constructing models to illustrate underlying processes, and investigating the potential advantages and/or consequences of project success or failure. The design thinking process is outlined below and documented with the online GitHub service. This report finds that a successful implementation of this project can lead to substantial positive benefits to stakeholders such as the customer, the relationship manager and the travel company. This may include but is not limited to: 
+* Increased company revenue and customer-base
+* Improved public image from improved customer service
+* Competitive advantage (differentiation and cost savings)
 
 # Project Approach
-<-- Discuss use of design thinking + agile scrum -->
+
+## Design Thinking
+Using the design thinking process allows us, the designers/developers of the system, to precisely define the scope, and solve, a problem. This is done through the various stages of design thinking.
+
+### Empathy
+For the empathy stage, we decided to use empathy maps to truly understand the perspectives of the stakeholders. It is important to note that these empathy maps describe their experiences before the implementation of the new system.  
+
+### Define
+By analysing the empathy maps created in the previous stage, we can properly define the scope of the problem that the current environment presents. We achieved this through the use of Point of View (POV) statments. While we created POV statements for all the stakeholders, we also created them for ourselves. This was in order to uncover more potential problems with the current system from our perspectives. Overall, the define stage allowed us to understand our stakeholders and their needs.
+
+### Ideate
+After the defining stage, we created How Might We (HWM) statements to isolate the functions that we hope our new system will be able to achieve. To do this, we reference the POV of the stakeholders.
+
+### Prototype
+The prototype phase allows us to address each of the problems defined in the previous steps. We created Use Case Diagrams, Activity Diagrams, Class Diagrams and Collaborative Diagrams to define the core functionality of our proposed system prototype.
+
+### Test
+It is important, that once the system is developed, that we assess it against the requirements set by the stakeholders. This stage of the design thinking methodology allows us to iterate over many designs to ensure that the best solution is presented to the clients.
+
+## Agile
+
+The agile development methodology allows us to deliver the proposed solution is smaller increments quickly. It allows to rapidly adapt to evolving and emerging business needs and concerns.
+
+### Roles
+In the agile development methodology, there are 3 roles: Product Owner, Scrum Master and the Development Team. With our current project, all of us are a part of the development team, while Dennis, the admin of GitHub repository, is the Scrum Master. The product owner is the chief executive officer of the major travel company.
+
+### Events
+#### Sprint Planning
+Sprint planning involves all three roles in the agile development methodology. The aim of sprint planning is to centralise a goal for the sprint and manage/plan how the deliverables will be released. This was initially completed in Week 2 with the creation/prioritisation of the backlog.
+
+#### Sprint Review
+This process involves reviewing the completed deliverables of the sprint. The observations made in this event are essential for the next event: Sprint Retrospective.
+
+#### Sprint Retrospective
+The sprint retrospective allows the Scrum Team to looking back on the overall sprint process and isolate key areas for improvement. These areas can be dealt with in future sprints.
+
+#### Daily Scrum
+As the Agile methodology involves ever-changing requirements and needs, plans for the sprint also change. That is why Daily Scrum is required for all members of the development team to attend. This allows each member to understand the collective work being done, so that the deliverables are still on track for release during the same sprint.
+
+### Artefacts
+#### Product Backlog
+The aim of the product backlog is to order all the requirements that are required in the final product. It comprises of product backlog items, that the Product Owner is responsible for, which link to our GitHub issues that we have created.
+
+#### Sprint Backlog
+Like the product backlog, it contains product backlog items, but not all of them. It only includes items that are set to be completed during the current sprint and a delivery plan of this sprint. As our project only contains one sprint, all our items in the product backlog are within our sprint backlog. These can be visualised through the use of Kanban boards so that the Development Team, which manages, creates and owns the sprint backlog, can track the progress of work.
 
 # Definition
 
 ## Project Objectives & Problem
-The aim of this project is to deliver an end-to-end design for a Automated Call Routing System (ACRS) to the organisations call management center (CMC). This system will maximise efficiency by adjusting customer calls to relationship managers (RMs) with the domain knowledge of the potential / existing customer's profile. This will ensure that customers are matched with the most appropriate and well informed RM). The proposed system aims to improve the operational performance of the CMC by prioritising customer calls, performing customer-RM matching, and improving the outcomes of outbound telemarketing calls. In doing so, the system is projected to lift the organisations revenues in the 2019-20 fiscal year.
+The aim of this project is to deliver an end-to-end design for a Automated Call Routing System to the organisations call management center. This system will maximise efficiency by adjusting customer calls to relationship managers (RMs) with the domain knowledge of the potential / existing customer's profile. This will ensure that customers are matched with the most appropriate and well informed RM). The proposed system aims to improve the operational performance of the CMC by prioritising customer calls, performing customer-RM matching, and improving the outcomes of outbound telemarketing calls. In doing so, the system is projected to lift the organisations revenues in the 2019-20 fiscal year.
 
 # Stakeholders
 There are several stakeholders in this project: 
@@ -127,6 +178,7 @@ Several assumptions have been made in this project:
 At the core functionality of the system is the 
 
 ## Collaborative Diagram
+![Collaborative Diagram](diagrams/Collaborative_Diagram_RMOutbound.png)
 
 # Competitive Advantages and Repercussions
 > Competitive advantage refers to circumstances that provide a particular company a favourable business position. This can come from lower costs, and/or differentiation from competitors.
@@ -157,4 +209,4 @@ As such, in this case study, failure can be in the form of any of the resultant 
 If failure occurs, the travel company is in danger of losing market share and any competitive advantage a successful project might've given. This project could be quite costly both in terms of time and money. There is no significant impact on the RM stakeholders nor the customer - however there is a chance that this failed project could lead to a loss in public image and trust of the travel company - resulting in a long-term damaging effect on sales.
 
 # Project Board
-![Project Board](Project_Board.png)
+![Project Board](diagrams/Project_Board.png)
