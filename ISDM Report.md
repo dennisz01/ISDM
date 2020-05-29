@@ -141,6 +141,15 @@ Several assumptions have been made in this project:
 
 * The profiles created by the Profiler Tool seamlessly integrates with the system
 
+* Call routing to the Interactive Voice Response Unit is automatically performed if no RMs are available
+
+* The Interactive Voice Response Unit business logic and functionality is already implemented, with only minor integrations with the routing system required.
+
+    * Call queueing is performed implicitly - once a match for an inbound call has been determined, the call is added to an RM's queue. The CMC's call prioritisation is handled by the IVR (i.e. customer's with higher weights are prioritised over customer's with lower weights).
+
+* Customer identification is performed prior to call handoff to the RM teams (e.g. by a reception desk)
+
+
 # Ideation
 >The goal is of ideation is to brainstorm possible questions and solutions. It represents a process of 'going wide' in terms of concepts and outcomes.
 
@@ -178,7 +187,13 @@ Several assumptions have been made in this project:
 The core functionality of the proposed system is driven by the 'Matcher and Distributor' class. It is envisioned that it is to be used as the central class / object that powers the operation of a system. This is achieved by enumatring the propeties of the object with lists of relationship managers, customers, and packages. In bound calls into the CMC are then instantiated into objects, analysed by the matcher, and distributed to the appropriate RM based on the parameters (i.e. RM skill, customer rating etc). 
 
 ## Collaborative Diagram
-![Collaborative Diagram](diagrams/Collaborative_Diagram_RMOutbound.png)
+*** Outbound Calling
+![Outbound Collaborative Diagram](diagrams/Collaborative_Diagram_RMOutbound.png)
+
+*** Inbound Calls
+![Inbound Collaborative Diagram](diagrams/Collaborative_Diagram_Inbound.png)
+
+The core functionality of the inbound calling mechanism is powered by the Matcher, Relationship Manager, and IVR classes. When a call is recieved, the customer's profile is retrieved and passed to the matcher. The business logic within the Matcher then determines the most appropriate RM to which the customer should be directed to. The Matcher checks if the RM is available - if not the customer is redirected to IVR to elicit additional information (which may be used by the RM) and the call is added to the appropriate position in the queue (according to profile weight). Alternativley, the customer can be directly redirected to the RM providing the RM is available.  
 
 # Competitive Advantages and Repercussions
 > Competitive advantage refers to circumstances that provide a particular company a favourable business position. This can come from lower costs, and/or differentiation from competitors.
