@@ -46,8 +46,10 @@ As the Agile methodology involves ever-changing requirements and needs, plans fo
 
 ### Artefacts
 #### Product Backlog
+The aim of the product backlog is to order all the requirements that are required in the final product. It comprises of product backlog items, that the Product Owner is responsible for, which link to our GitHub issues that we have created.
+
 #### Sprint Backlog
-#### Sprint Burndown Chart
+Like the product backlog, it contains product backlog items, but not all of them. It only includes items that are set to be completed during the current sprint and a delivery plan of this sprint. As our project only contains one sprint, all our items in the product backlog are within our sprint backlog. These can be visualised through the use of Kanban boards so that the Development Team, which manages, creates and owns the sprint backlog, can track the progress of work.
 
 # Definition
 
