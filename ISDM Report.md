@@ -122,7 +122,9 @@ Several assumptions have been made in this project:
 ![Outbound Call Activity Diagram](diagrams/CMC_ActivityDiagram_Outbound.png)
 
 ## Class Diagram
-![Cladd Diagram](diagrams/Class_Diagram.png)
+![Class Diagram](diagrams/Class_Diagram.png)
+
+At the core functionality of the system is the 
 
 ## Collaborative Diagram
 
