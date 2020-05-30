@@ -190,7 +190,7 @@ The core functionality of the proposed system is driven by the 'Matcher and Dist
 ### Outbound Calling
 ![Outbound Collaborative Diagram](diagrams/Collaborative_Diagram_RMOutbound.png)
 
-### Inbound Calls
+### Inbound Calling
 ![Inbound Collaborative Diagram](diagrams/Collaborative_Diagram_Inbound.png)
 
 The core functionality of the inbound calling mechanism is powered by the Matcher, Relationship Manager, and IVR classes. When a call is recieved, the customer's profile is retrieved and passed to the matcher. The business logic within the Matcher then determines the most appropriate RM to which the customer should be directed to. The Matcher checks if the RM is available - if not the customer is redirected to IVR to elicit additional information (which may be used by the RM) and the call is added to the appropriate position in the queue (according to profile weight). Alternativley, the customer can be directly redirected to the RM providing the RM is available.  
