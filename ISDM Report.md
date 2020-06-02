@@ -1,4 +1,6 @@
 # Information System Development Methodologies Assignment (31257)
+Presentation: https://youtu.be/uUZJK6Ea8T8
+
 ### Authors
 * Dennis Zub (13571649)
 * Hasith Jayasakera (13562133)
@@ -67,9 +69,9 @@ The aim of this project is to deliver an end-to-end design for a Automated Call 
 There are several stakeholders in this project: 
 
 Customer
- * They use the call center when dialing in.
+ * They use the call center when dialing in (Inbound Callers)
 
- * We chose customer as a stakeholder as they are users of the system. As a result of this, they present an interest in the development of the system.
+ * Customers are contacted by the CMC to be sold travel packages (Outbound Callers)
 
 Relationship Manager (RM)
  * RMs are matched to customers, through the system, and present travel packages to them.
@@ -85,9 +87,11 @@ Major Travel Company
 ## Empathy Maps
 ### Customer
 ![Empathy Map (customer)](diagrams/Empathy_Map_Final.png)
-Note that there were assumptions made about the behaviour of the customer in the above empathy map
+Note that there were assumptions made about the behaviour of the customer in the above empathy map.
+
 ### Relationship Manager
 ![Empathy Map (relationship manager)](diagrams/EmpathyMap_RelationshipManager.png)
+
 ### Travel Company
 ![Empathy Map (Travel Company)](diagrams/Empathy-Map-TravelCompany.png)
 
@@ -184,16 +188,12 @@ Several assumptions have been made in this project:
 ## Class Diagram
 ![Class Diagram](diagrams/Class_Diagram.png)
 
-The core functionality of the proposed system is driven by the 'Matcher and Distributor' class. It is envisioned that it is to be used as the central class / object that powers the operation of a system. This is achieved by enumatring the propeties of the object with lists of relationship managers, customers, and packages. In bound calls into the CMC are then instantiated into objects, analysed by the matcher, and distributed to the appropriate RM based on the parameters (i.e. RM skill, customer rating etc). 
-
 ## Collaborative Diagram
 ### Outbound Calling
 ![Outbound Collaborative Diagram](diagrams/Collaborative_Diagram_RMOutbound.png)
 
 ### Inbound Calling
 ![Inbound Collaborative Diagram](diagrams/Collaborative_Diagram_Inbound.png)
-
-The core functionality of the inbound calling mechanism is powered by the Matcher, Relationship Manager, and IVR classes. When a call is recieved, the customer's profile is retrieved and passed to the matcher. The business logic within the Matcher then determines the most appropriate RM to which the customer should be directed to. The Matcher checks if the RM is available - if not the customer is redirected to IVR to elicit additional information (which may be used by the RM) and the call is added to the appropriate position in the queue (according to profile weight). Alternativley, the customer can be directly redirected to the RM providing the RM is available.  
 
 # Competitive Advantages and Repercussions
 > Competitive advantage refers to circumstances that provide a particular company a favourable business position. This can come from lower costs, and/or differentiation from competitors.
