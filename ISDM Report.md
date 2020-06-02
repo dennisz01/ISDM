@@ -226,3 +226,6 @@ If a failure occurs, the travel company is in danger of losing market share and 
 
 # Project Board
 ![Project Board](diagrams/Project_Board.png)
+
+# Conclusion
+By applying the 'Design Thinking' approach, supported by Agile Scrum, the team has been able to develop a prototype customer call management system for the CMC. This system will be able to dynamically control call flow rates, route inbound customers to dedicated and specialist RMs, and generate target lists that are tailored to the each RM. In doing so, the CMC will be able to capitalise on increased customer satisfaction by driving repeat sales with loyal customers and improve operational efficiency. This allows the organisation to gain a strategic and leading edge position within the travel sales market, thereby increasing its fiscal performance.
